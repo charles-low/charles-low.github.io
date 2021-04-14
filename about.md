@@ -4,12 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a cybersecurity practitioner with years of experience in advisory and consulting copmanies, with focus in Application Security and Penetration Test. 
 
-### More Information
+Big fan of Linux since college, a loyal python and vim user.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Work Related Certificates
+
+True talents never needed these. We the average struggle to get a living with these certificates:
+
+ - OSCP  
+ - CRT   
+ - CISSP 
+ - CISA
+ - CISM
+ - LPIC
+ - FCNSP
+ - CEH
+ 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Seems too dangerous to put my personal email here. Maybe add my linkedin profile here later.
